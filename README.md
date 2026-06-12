@@ -87,9 +87,9 @@
 </table>
 
 ## 💕 Create Ports
-We'd be thrilled if you could help us with our projects!
-Whether it's a pull request for an existing port or a completely new one!
-<a href="#">Please read the instructions for FieldGlow here</a>
+We'd be thrilled if you could help us with our projects!  
+Whether it's a pull request for an existing port or a completely new one!  
+<a href="#">Please read the instructions for FieldGlow here</a>  
 <div align="center">
     <a href="#"><img src="https://cdn.dgamer.de/FieldGlow/footer.svg" alt="Footer"></a>
 </div>
