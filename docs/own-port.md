@@ -1,11 +1,9 @@
-<!--# FieldGlow (Github Standard Description)
-🏠 A set of soft pastel colors-->
 <div align="center">
     <h1>FieldGlow</h1>
-    <p>A set of soft pastel colors</p>
+    <p>Create our own Port</p>
 </div>
 
-## 🎨 Palette
+To create your own port, you need to use the following palette:  
 <table>
 	<tbody>
 		<tr>
@@ -21,7 +19,7 @@
   		<tr>
   			<td><img width="15px" src="https://cdn.dgamer.de/FieldGlow/colors/pink.svg" alt="Pink Color"></td>
 			<td>Pink</td>
-			<td>250, 200, 250</td>
+			<td>350, 200, 250</td>
 		</tr>
 		<tr>
 			<td><img width="15px" src="https://cdn.dgamer.de/FieldGlow/colors/poppy.svg" alt="Poppy Color"></td>
@@ -36,7 +34,7 @@
 		<tr>
 			<td><img width="15px" src="https://cdn.dgamer.de/FieldGlow/colors/coral.svg" alt="Coral Color"></td>
 			<td>Coral</td>
-			<td>250, 150, 100</td>
+			<td>255, 150, 100</td>
 		</tr>
 		<tr>
 			<td><img width="15px" src="https://cdn.dgamer.de/FieldGlow/colors/cactus.svg" alt="Cactus Color"></td>
@@ -86,10 +84,25 @@
 	</tbody>
 </table>
 
-## 💕 Create Ports
-We'd be thrilled if you could help us with our projects!
-Whether it's a pull request for an existing port or a completely new one!
-<a href="#">Please read the instructions for FieldGlow here</a>
+### 💕 For beginners
+- Set the background to **Base**
+- Use **Daisy** for text/foreground
+- Use **Surface 1** for cards
+
+### 🏠 Creating a port
+1. Open the [template repository](https://github.com/FieldGlow/template) and click **"Use this template"**
+2. Name the repository after your app — lowercase, e.g. `github`
+3. Set the description to:
+``` 📦 A set of soft pastel colours for APP```
+   Example: `👨‍💻 A set of soft pastel colours for GitHub`
+4. Create the repository
+5. In `README.md`, replace the app name, logo, and preview images
+6. Create the Port in **Grass**
+
+### 🗳️ Submit
+Create an issue ticket in this repository!
+
+
 <div align="center">
     <a href="#"><img src="https://cdn.dgamer.de/FieldGlow/footer.svg" alt="Footer"></a>
 </div>
