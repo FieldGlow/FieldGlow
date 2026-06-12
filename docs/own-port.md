@@ -97,7 +97,7 @@ To create your own port, you need to use the following palette:
    Example: `👨‍💻 A set of soft pastel colours for GitHub`
 4. Create the repository
 5. In `README.md`, replace the app name, logo, and preview images
-6. Create the Port in **Grass**
+6. Create the Port in **Coral**
 
 ### 🗳️ Submit
 Create an issue ticket in this repository!
